@@ -81,6 +81,7 @@ const getStudentsCountTeacherId = async (id) => {
 
     } catch (error) {
         return [null, error]
+        //updates done
     }
 }
 
